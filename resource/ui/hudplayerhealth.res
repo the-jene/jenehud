@@ -1,4 +1,5 @@
 "Resource/UI/HudPlayerHealth.res"
+"Resource/UI/HudPlayerHealth.res"
 {	
 	// player health data
 	"HudPlayerHealth"
@@ -86,7 +87,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
+		"font"			"Swerve16"
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatusMaxHealthValue"
