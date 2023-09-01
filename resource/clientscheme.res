@@ -3098,6 +3098,356 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		"SwerveBold12"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		"SwerveBold16"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}	
+			
+		"SwerveBold24"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		"SwerveBold32"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBold36"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBold42"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBold48"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBoldItalic12"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		"SwerveBoldItalic16"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}	
+			
+		"SwerveBoldItalic24"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		"SwerveBoldItalic32"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBoldItalic36"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBoldItalic42"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBoldItalic48"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveItalic12"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		"SwerveItalic16"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}	
+			
+		"SwerveItalic24"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		"SwerveItalic32"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveItalic36"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveItalic42"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveItalic48"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLight12"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		"SwerveLight16"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}	
+			
+		"SwerveLight24"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		"SwerveLight32"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLight36"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLight42"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLight48"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLightItalic12"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		"SwerveLightItalic16"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}	
+			
+		"SwerveLightItalic24"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+
+		"SwerveLightItalic32"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLightItalic36"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLightItalic42"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLightItalic48"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//Custom fonts
@@ -5921,31 +6271,31 @@ Scheme
 		"9"
 		{
 			"font" "resource/fonts/swerveb.ttf"
-			"name" "Swerve Bold"
+			"name" "Swerve  Bold"
 		}
 		
 		"10"
 		{
 			"font" "resource/fonts/swervebi.ttf"
-			"name" "Swerve BoldItalic"
+			"name" "Swerve  BoldItalic"
 		}
 		
 		"11"
 		{
 			"font" "resource/fonts/swervei.ttf"
-			"name" "Swerve Italic"
+			"name" "Swerve  Italic"
 		}
 		
 		"12"
 		{
 			"font" "resource/fonts/swervel.ttf"
-			"name" "Swerve Light"
+			"name" "Swerve  Light"
 		}
 		
 		"13"
 		{
 			"font" "resource/fonts/swerveli.ttf"
-			"name" "Swerve LightItalic"
+			"name" "Swerve  LightItalic"
 		}
 	}
 }
