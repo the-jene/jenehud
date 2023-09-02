@@ -208,6 +208,12 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		// Custom colors
+		"CustomRed"					"195 102 42 255"
+		"CustomRedBG"					"65 23 9 255"
+		"CustomBlu"					"52 158 107 255"
+		"CustomBluBG"					"8 46 38 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
