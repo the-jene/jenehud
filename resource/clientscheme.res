@@ -3105,6 +3105,16 @@ Scheme
 			}
 		}
 		
+		"Swerve56"
+		{
+			"1"
+			{
+				"name"		"Swerve"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		"SwerveBold12"
 		{
 			"1"
@@ -3171,6 +3181,16 @@ Scheme
 			{
 				"name"		"Swerve  Bold"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveBold56"
+		{
+			"1"
+			{
+				"name"		"Swerve  Bold"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
@@ -3245,6 +3265,16 @@ Scheme
 			}
 		}
 		
+		"SwerveBoldItalic56"
+		{
+			"1"
+			{
+				"name"		"Swerve  BoldItalic"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		"SwerveItalic12"
 		{
 			"1"
@@ -3311,6 +3341,16 @@ Scheme
 			{
 				"name"		"Swerve  Italic"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveItalic56"
+		{
+			"1"
+			{
+				"name"		"Swerve  Italic"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
@@ -3385,6 +3425,16 @@ Scheme
 			}
 		}
 		
+		"SwerveLight56"
+		{
+			"1"
+			{
+				"name"		"Swerve  Light"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
 		"SwerveLightItalic12"
 		{
 			"1"
@@ -3451,6 +3501,16 @@ Scheme
 			{
 				"name"		"Swerve  LightItalic"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"SwerveLightItalic56"
+		{
+			"1"
+			{
+				"name"		"Swerve  LightItalic"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}

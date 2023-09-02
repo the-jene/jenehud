@@ -64,15 +64,15 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"0"
-		"ypos"			"56"	[$WIN32]
+		"ypos"			"6"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"150"
+		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SwerveBold48"
+		"font"			"SwerveBold56"
 		"fgcolor"		"CustomRed"
 	}
 	"PlayerStatusHealthValueBG"
@@ -80,15 +80,15 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
 		"xpos"			"2"
-		"ypos"			"58"	[$WIN32]
+		"ypos"			"8"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"150"
+		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SwerveBold48"
+		"font"			"SwerveBold56"
 		"fgcolor"		"CustomRedBG"
 	}
 	"PlayerStatusMaxHealthValue"
