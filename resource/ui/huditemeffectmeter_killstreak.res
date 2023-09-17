@@ -57,9 +57,9 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabelShadow"
-		"xpos"					"131"
-		"ypos"					"83"
-		"zpos"					"2"
+		"xpos"					"-1"
+		"ypos"					"-1"
+		"zpos"					"1"
 		"wide"					"40"
 		"tall"					"15"
 		"autoResize"			"1"
@@ -73,6 +73,9 @@
 		"brighttext"			"0"
 		"font"					"Swerve12"
 		"fgcolor"				"CustomRedBG"
+		"pin_to_sibling"		"ItemEffectMeterLabel"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"ItemEffectMeter"
@@ -122,9 +125,9 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"131"
-		"ypos"					"64"
-		"zpos"					"2"
+		"xpos"					"-1"
+		"ypos"					"-1"
+		"zpos"					"1"
 		"wide"					"40"
 		"tall"					"20"	
 		"pinCorner"				"2"
@@ -137,5 +140,8 @@
 		"brighttext"			"0"
 		"font"					"Swerve24"
 		"fgcolor"				"CustomRedBG"
+		"pin_to_sibling"		"ItemEffectMeterCount"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 }

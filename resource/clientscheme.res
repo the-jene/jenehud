@@ -214,6 +214,7 @@ Scheme
 		"CustomRedBG"					"65 23 9 255"
 		"CustomBlu"					"52 158 107 255"
 		"CustomBluBG"					"8 46 38 255"
+		"CustomBeige"					"227 208 188 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////

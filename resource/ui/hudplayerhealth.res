@@ -51,7 +51,7 @@
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"xpos"			"99999999"	[$WIN32]
 		"ypos"			"99999999"	[$WIN32]
-		"zpos"			"2"
+		"zpos"			"1"
 		"wide"			"0"	[$WIN32]
 		"tall"			"0"	[$WIN32]
 		"visible"		"0"
@@ -65,7 +65,7 @@
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"0"
 		"ypos"			"6"	[$WIN32]
-		"zpos"			"5"
+		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"60"
 		"visible"		"1"
@@ -75,13 +75,13 @@
 		"font"			"SwerveBold56"
 		"fgcolor"		"CustomRed"
 	}
-	"PlayerStatusHealthValueBG"
+	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueBG"
-		"xpos"			"2"
-		"ypos"			"8"	[$WIN32]
-		"zpos"			"5"
+		"fieldName"		"PlayerStatusHealthValueShadow"
+		"xpos"			"-2"
+		"ypos"			"-2"	[$WIN32]
+		"zpos"			"1"
 		"wide"			"150"
 		"tall"			"60"
 		"visible"		"1"
@@ -90,6 +90,9 @@
 		"textAlignment"	"center"	
 		"font"			"SwerveBold56"
 		"fgcolor"		"CustomRedBG"
+		"pin_to_sibling"		"PlayerStatusHealthValue"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
