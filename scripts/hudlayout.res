@@ -16,8 +16,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c"	[$WIN32]
-		"ypos"	"c40"	[$WIN32]
+		"xpos"	"c"
+		"ypos"	"c40"
 		"wide"	"250"
 		"tall"	"120"
 	}
@@ -79,11 +79,11 @@
 		"fieldName"	"HudDemomanCharge"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"	"0"
-		"ypos"	"0"
+		"xpos"	"c-250"
+		"ypos"	"c40"
 		"zpos"	"1"
-		"wide"	"f0"
-		"tall"	"500"
+		"wide"	"500"
+		"tall"	"120"
 	}
 	"HudBowCharge"
 	{
@@ -1025,11 +1025,11 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"	"0"
-		"ypos"	"0"
+		"xpos"	"c-250"
+		"ypos"	"c40"
 		"zpos"	"1"
-		"wide"	"f0"
-		"tall"	"500"
+		"wide"	"500"
+		"tall"	"120"
 	}	
 
 	HudTeamGoal

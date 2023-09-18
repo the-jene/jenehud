@@ -1,12 +1,12 @@
-"Resource/UI/HudItemEffectMeter_Demoman.res"
+"Resource/UI/HudItemEffectMeter_Engineer.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-250"	
-		"ypos"			"c40"	
+		"xpos"			"c"
+		"ypos"			"c40"
 		"wide"			"250"
 		"tall"			"120"
 		"MeterFG"		"White"
@@ -23,6 +23,7 @@
 		"wide"			"76"
 		"tall"			"44"
 		"visible"		"0"
+		"visible_minmode"	"0"
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
@@ -36,17 +37,17 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"130"
+		"xpos"					"75"
 		"ypos"					"82"
 		"zpos"					"2"
-		"wide"					"40"
+		"wide"					"50"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#TF_KillStreak"
+		"labelText"				"#TF_Ball"
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
@@ -62,7 +63,7 @@
 		"ypos"					"23"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
-		"zpos"					"1"
+		"zpos"					"2"
 		"wide"					"40"
 		"wide_minmode"			"50"
 		"tall"					"6"				
@@ -78,8 +79,7 @@
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"130"
+		"xpos"					"80"
 		"ypos"					"63"
 		"zpos"					"2"
 		"wide"					"40"
@@ -93,7 +93,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Swerve24"
-		"fgcolor"				"CustomRed"
+		"fgcolor"				"CustomBlu"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -114,9 +114,10 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Swerve24"
-		"fgcolor"				"CustomRedBG"
+		"fgcolor"				"CustomBluBG"
 		"pin_to_sibling"		"ItemEffectMeterCount"
 		"pin_corner_to_sibling"	"0"
 		"pin_to_sibling_corner"	"0"
 	}
 }
+

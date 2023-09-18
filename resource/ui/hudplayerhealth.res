@@ -112,7 +112,7 @@
 		"fgcolor"		"TanDark"
 	}
 
-"PlayerStatusAnchor"
+	"PlayerStatusAnchor"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"

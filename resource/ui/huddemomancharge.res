@@ -5,8 +5,8 @@
 		"ControlName"		"ContinuousProgressBar"
 		"fieldName"			"ChargeMeter"
 		"font"				"Default"
-		"xpos"				"c-45"
-		"ypos"				"c75"
+		"xpos"				"205"
+		"ypos"				"35"
 		"zpos"				"2"
 		"wide"				"150"
 		"tall"				"3"
@@ -17,6 +17,7 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
+		"fgcolor_override"	"White"
 	}
 
 	"ItemEffectMeterLabel"
@@ -45,8 +46,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MeterAnchor"
-		"xpos"			"c-105"
-		"ypos"			"c46"
+		"xpos"			"145"
+		"ypos"			"6"
 		"wide"			"210"
 		"tall"			"62"
 		"visible"		"1"
