@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-250"		[$WIN32]
-		"ypos"			"c40"	[$WIN32]
+		"xpos"			"c-250"
+		"ypos"			"c40"
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"160"
@@ -64,7 +64,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"0"
-		"ypos"			"6"	[$WIN32]
+		"ypos"			"6"
 		"zpos"			"2"
 		"wide"			"150"
 		"tall"			"60"
@@ -91,8 +91,8 @@
 		"font"			"SwerveBold56"
 		"fgcolor"		"CustomRedBG"
 		"pin_to_sibling"		"PlayerStatusHealthValue"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
